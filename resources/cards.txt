@@ -1,0 +1,42 @@
+SET Spanish
+hola - hello
+adios - goodbye
+por favor - please
+gracias - thank you
+lo siento - sorry
+salud - bless you
+siempre - forever
+marron - brown
+azul - blue
+rosa - pink
+camarero - waiter
+ciudad - city
+
+SET German
+anzug - suit
+hemd - shirt
+brief - letter
+junge - boy
+madchen - girl
+vater - father
+mutter - mother
+schwester - sister
+nacht - night
+schlimm - terrible
+
+SET Dutch
+melk - milk
+fiet - bike
+melk - milk
+fiet - bike
+
+SET Italian
+giorno - day
+bisogno - need
+
+SET Romanian
+felicitari - congratulations
+
+SET French
+bonjour - hello
+merci beaucoup - thank you very much
